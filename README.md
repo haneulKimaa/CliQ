@@ -28,6 +28,8 @@
 
 
 ### 6.  스크린샷
+<img src="https://user-images.githubusercontent.com/63438947/129935690-4cf26d02-b20c-418f-a48e-552fb7d0d0ce.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935703-61363168-b4de-469c-bf63-9ea362ccba82.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935707-c5ab38bc-29d2-4732-9871-f325a69993f5.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935710-323990ca-8e23-41ba-ae29-801193230b14.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935712-50962ff9-d333-4276-91a1-34bfee57b72a.png" width="30%">  
+
 
 
 ### 7.  개발 사항 (개인)
@@ -122,4 +124,8 @@ if clickedNumber != 2{
 
 ### 8.  App store 등록 기간
 + 2020.6.5 ~ 2021.6.5 (현재 내려간 상태)
+
+<img src="https://user-images.githubusercontent.com/63438947/129935496-514b8da9-9d6c-438d-b7cf-ee976d3eaa3e.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935596-9fd3c0ad-6475-4e29-bd05-7f497d32a9df.png" width="30%">
+
+
 
