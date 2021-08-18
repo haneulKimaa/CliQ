@@ -61,7 +61,6 @@ class InfoViewController: UIViewController, UIScrollViewDelegate {
         super.viewDidLoad()
         
         //UserDefaults.standard.setValue(10, forKey: "temp2")
-        
         //var num = UserDefaults.standard.integer(forKey: "temp2")
         
         number = UserDefaults.standard.integer(forKey: "InfoLevel")
