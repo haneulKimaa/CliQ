@@ -9,11 +9,11 @@
 
 
 ### 2.  개발 언어
-+ Swift. 
++ Swift 
 
 
 ### 3.  개발 툴
-+ Xcode. 
++ Xcode 
 
 ### 4.  최적화 디바이스
 + iPhone XR/XS Max/11/11 Pro Max  
