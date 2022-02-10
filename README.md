@@ -20,7 +20,7 @@
 
 
 ### 5.  주요 기능
-+ 도입부 scoll view
++ 도입부 scroll view
 + 플레이화면 - 글자 선택시 정답인지 확인
 + 플레이화면 - 힌트 버튼 클릭시 정답을 제외한 글자 랜덤하게 삭제
 + 레벨에 따른 문제 설정
@@ -123,7 +123,7 @@ if clickedNumber != 2{
 
 
 ### 8.  App store 등록 기간
-+ 2020.6.5 ~ 2021.6.5 (현재 내려간 상태)
++ 2020.6.5 ~ 2021.6.5
 
 <img src="https://user-images.githubusercontent.com/63438947/129935496-514b8da9-9d6c-438d-b7cf-ee976d3eaa3e.png" width="30%">  <img src="https://user-images.githubusercontent.com/63438947/129935596-9fd3c0ad-6475-4e29-bd05-7f497d32a9df.png" width="30%">
 
